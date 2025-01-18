@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TI\\.Net\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|c:\\ti\\.net\\solid\\05_dip\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|solutionrelative:05_dip\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|c:\\ti\\.net\\solid\\05_dip\\05_dip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|solutionrelative:05_dip\\05_dip.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|c:\\ti\\.net\\solid\\05_dip\\good\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|solutionrelative:05_dip\\good\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|c:\\ti\\.net\\solid\\05_dip\\good\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|solutionrelative:05_dip\\good\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|c:\\ti\\.net\\solid\\05_dip\\bad\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|solutionrelative:05_dip\\bad\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|c:\\ti\\.net\\solid\\05_dip\\good\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|solutionrelative:05_dip\\good\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|c:\\ti\\.net\\solid\\05_dip\\bad\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8906AB8-FA29-4A6A-9299-AF7E3F612B51}|05_DIP\\05_DIP.csproj|solutionrelative:05_dip\\bad\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16E0F46-950E-4E57-A7E8-72AF36A58477}|SRP\\01_SRP.csproj|c:\\ti\\.net\\solid\\srp\\01_srp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C16E0F46-950E-4E57-A7E8-72AF36A58477}|SRP\\01_SRP.csproj|solutionrelative:srp\\01_srp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40DCA3DD-817C-4113-8785-6839ECC8DC11}|OCP\\02_OCP.csproj|c:\\ti\\.net\\solid\\ocp\\02_ocp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40DCA3DD-817C-4113-8785-6839ECC8DC11}|OCP\\02_OCP.csproj|solutionrelative:ocp\\02_ocp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C804C3FD-D2D0-4753-9E70-458BA32D5CFD}|LSP\\03_LSP.csproj|c:\\ti\\.net\\solid\\lsp\\03_lsp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C804C3FD-D2D0-4753-9E70-458BA32D5CFD}|LSP\\03_LSP.csproj|solutionrelative:lsp\\03_lsp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AC518F-30A4-4221-A77F-344BEA223FDE}|04_ISP\\04_ISP.csproj|c:\\ti\\.net\\solid\\04_isp\\04_isp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70AC518F-30A4-4221-A77F-344BEA223FDE}|04_ISP\\04_ISP.csproj|solutionrelative:04_isp\\04_isp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AC518F-30A4-4221-A77F-344BEA223FDE}|04_ISP\\04_ISP.csproj|c:\\ti\\.net\\solid\\04_isp\\bad\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AC518F-30A4-4221-A77F-344BEA223FDE}|04_ISP\\04_ISP.csproj|solutionrelative:04_isp\\bad\\contractemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AC518F-30A4-4221-A77F-344BEA223FDE}|04_ISP\\04_ISP.csproj|c:\\ti\\.net\\solid\\04_isp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{70AC518F-30A4-4221-A77F-344BEA223FDE}|04_ISP\\04_ISP.csproj|solutionrelative:04_isp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\05_DIP\\Good\\UserService.cs",
+              "RelativeDocumentMoniker": "05_DIP\\Good\\UserService.cs",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\05_DIP\\Good\\UserService.cs",
+              "RelativeToolTip": "05_DIP\\Good\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:57:54.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\05_DIP\\Good\\IEmailService.cs",
+              "RelativeDocumentMoniker": "05_DIP\\Good\\IEmailService.cs",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\05_DIP\\Good\\IEmailService.cs",
+              "RelativeToolTip": "05_DIP\\Good\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:55:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\05_DIP\\Good\\EmailService.cs",
+              "RelativeDocumentMoniker": "05_DIP\\Good\\EmailService.cs",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\05_DIP\\Good\\EmailService.cs",
+              "RelativeToolTip": "05_DIP\\Good\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:47:06.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01_SRP",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\SRP\\01_SRP.csproj",
+              "RelativeDocumentMoniker": "SRP\\01_SRP.csproj",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\SRP\\01_SRP.csproj",
+              "RelativeToolTip": "SRP\\01_SRP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T01:42:20.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "02_OCP",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\OCP\\02_OCP.csproj",
+              "RelativeDocumentMoniker": "OCP\\02_OCP.csproj",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\OCP\\02_OCP.csproj",
+              "RelativeToolTip": "OCP\\02_OCP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T01:42:04.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "03_LSP",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\LSP\\03_LSP.csproj",
+              "RelativeDocumentMoniker": "LSP\\03_LSP.csproj",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\LSP\\03_LSP.csproj",
+              "RelativeToolTip": "LSP\\03_LSP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T01:41:41.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "04_ISP",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\04_ISP\\04_ISP.csproj",
+              "RelativeDocumentMoniker": "04_ISP\\04_ISP.csproj",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\04_ISP\\04_ISP.csproj",
+              "RelativeToolTip": "04_ISP\\04_ISP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T01:41:32.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\05_DIP\\Bad\\UserService.cs",
+              "RelativeDocumentMoniker": "05_DIP\\Bad\\UserService.cs",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\05_DIP\\Bad\\UserService.cs",
+              "RelativeToolTip": "05_DIP\\Bad\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:39:58.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\05_DIP\\Bad\\EmailService.cs",
+              "RelativeDocumentMoniker": "05_DIP\\Bad\\EmailService.cs",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\05_DIP\\Bad\\EmailService.cs",
+              "RelativeToolTip": "05_DIP\\Bad\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:38:31.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05_DIP",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\05_DIP\\05_DIP.csproj",
+              "RelativeDocumentMoniker": "05_DIP\\05_DIP.csproj",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\05_DIP\\05_DIP.csproj",
+              "RelativeToolTip": "05_DIP\\05_DIP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T01:20:34.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\05_DIP\\Readme.txt",
+              "RelativeDocumentMoniker": "05_DIP\\Readme.txt",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\05_DIP\\Readme.txt",
+              "RelativeToolTip": "05_DIP\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-26T01:21:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractEmployee.cs",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\04_ISP\\Bad\\ContractEmployee.cs",
+              "RelativeDocumentMoniker": "04_ISP\\Bad\\ContractEmployee.cs",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\04_ISP\\Bad\\ContractEmployee.cs",
+              "RelativeToolTip": "04_ISP\\Bad\\ContractEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:40:46.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\TI\\.Net\\SOLID\\04_ISP\\Readme.txt",
+              "RelativeDocumentMoniker": "04_ISP\\Readme.txt",
+              "ToolTip": "C:\\TI\\.Net\\SOLID\\04_ISP\\Readme.txt",
+              "RelativeToolTip": "04_ISP\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-22T19:40:40.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
